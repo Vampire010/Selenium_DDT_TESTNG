@@ -1,0 +1,13 @@
+<suite name="Suite">
+ 	<test name="Practice Grouping">
+ 		<groups>
+	 		<run>
+				<include name="Scooter" />
+ 			</run>
+		</groups>
+
+		<classes>
+ 			<class name="Testng.Test_Case_Grouping" />
+		</classes>
+ 	</test>
+</suite>

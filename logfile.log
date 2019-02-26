@@ -1,0 +1,19 @@
+2019-02-24 21:47:46,627 INFO  [Logs] New driver instantiated 
+2019-02-24 21:47:46,635 INFO  [Logs] Implicit wait applied on the driver for 10 seconds 
+2019-02-24 21:47:48,117 INFO  [Logs] Web application launched 
+2019-02-24 21:50:39,208 INFO  [Logs] New driver instantiated 
+2019-02-24 21:50:39,216 INFO  [Logs] Implicit wait applied on the driver for 10 seconds 
+2019-02-24 21:51:00,351 INFO  [Logs] Web application launched 
+2019-02-24 21:51:00,439 INFO  [Logs] Click action performed on My Account link 
+2019-02-24 21:51:00,506 INFO  [Logs] Username entered in the Username text box 
+2019-02-24 21:51:00,572 INFO  [Logs] Password entered in the Password text box 
+2019-02-24 21:51:03,590 INFO  [Logs] Click action performed on Submit button 
+2019-02-24 21:52:50,797 INFO  [Logs] New driver instantiated 
+2019-02-24 21:52:50,813 INFO  [Logs] Implicit wait applied on the driver for 10 seconds 
+2019-02-24 21:52:53,931 INFO  [Logs] Web application launched 
+2019-02-24 21:52:54,014 INFO  [Logs] Click action performed on My Account link 
+2019-02-24 21:52:54,083 INFO  [Logs] Username entered in the Username text box 
+2019-02-24 21:52:54,155 INFO  [Logs] Password entered in the Password text box 
+2019-02-24 21:52:56,101 INFO  [Logs] Click action performed on Submit button 
+2019-02-24 21:52:57,188 INFO  [Logs] Click action performed on Log out link 
+2019-02-24 21:52:57,979 INFO  [Logs] Browser closed 
